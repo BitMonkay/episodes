@@ -1,0 +1,4 @@
+baseURL = 'https://bitmonkay.github.io/episodes/'
+languageCode = 'en-us'
+title = 'Audios of 3monkeys'
+theme = "mini"
